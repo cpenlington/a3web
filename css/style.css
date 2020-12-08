@@ -164,7 +164,6 @@ p {
 /*Gets rid of white gap between header photo and page title*/
 .header{
   font-size: 0;
-  width: 100%;
 }
 
 /*Formatting background, padding and and font colour of page title*/
